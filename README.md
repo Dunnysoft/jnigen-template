@@ -11,7 +11,7 @@ Template project for setting up [jnigen](https://github.com/libgdx/libgdx/wiki/j
 * Project name
   - `settings.gradle` contains rootProject.name
 * Classpath/Class names.
-  - Demo uses demo.JnigenDemo for the main class. Rename them both to your preferred naming.
+  - Demo uses JnigenDemo for the main class. Rename them both to your preferred naming.
 * jnigen section in build.gradle
   - `sharedLibName` is the name of your resulting shared library. It defaults to "demo" resulting in names such as "demo.dll"
 * Publish artifact group name

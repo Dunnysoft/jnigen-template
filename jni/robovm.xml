@@ -1,0 +1,5 @@
+<config>
+    <libs>
+        <lib>libs/libdemo.a</lib>
+    </libs>
+</config>

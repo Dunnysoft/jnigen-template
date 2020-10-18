@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gdx-jnigen-2.0.0-SNAPSHOT-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libraries/gdx-jnigen-2.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../libraries/gdx-jnigen-2.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
