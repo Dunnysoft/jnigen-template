@@ -9,6 +9,17 @@ public class Xmp {
 	#include <jni.h>
 	#include <xmp.h>
 
+
+	static void init_test_info_fields(JNIEnv *env);
+	static void init_frame_info_fields(JNIEnv *env);
+	static void init_channel_info_fields(JNIEnv *env);
+	static void init_event_data_fields(JNIEnv *env);
+	static void init_mod_data_fields(JNIEnv *env);
+	static void init_pattern_data_fields(JNIEnv *env);
+	static void init_instrument_data_fields(JNIEnv *env);
+	static void init_sample_data_fields(JNIEnv *env);
+
+
 	static struct test_info {
 		jclass class;
 		jfieldID name;
